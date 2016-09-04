@@ -1,0 +1,16 @@
+.body {
+	background-color: gray;
+}
+
+
+.div {
+	display: inline-block;
+	float: left;	
+}
+
+.hidden {
+	visibility: hidden;
+}
+.show {
+	visibility: visible;
+}
